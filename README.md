@@ -4,5 +4,5 @@ to use, please do the following:
 
 ```bash
 git clone https://github.com/ryan-edgewurth/phoenixde-install
-./setup-phoenixde.sh
+sudo ./setup-phoenixde.sh
 ```
